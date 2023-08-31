@@ -1,5 +1,8 @@
 # Setup-zmNinja
 
+For a detailed HowTo guide on using zmNinja features please review [this document](https://docs.google.com/document/u/3/d/e/2PACX-1vS9z-ANNUbPRMhCWbS-PFJtB_6y6O_vwrZfLE6-TjPo3O0bPQeMUjjeTSXFvILU_w4ZTgU01CM9Hz8p/pub) from the project maintainers.
+
+---
 **1a).** Open the zmNinja app and select **Expert** if opening app for the first time.
 
 ![Select Expert Option](/imgs/00_select_expert.png)
