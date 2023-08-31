@@ -21,16 +21,16 @@
  - **Server Name**: *easy name to remember location*
  - **user name**: *username provided from WiredIQ*
  - **password**: *password provided from WiredIQ*
- - **ZM portal url**: *replace **SUBDOMAIN** with the locations subdomain*
+ - **ZM portal url**: *replace **SUBDOMAIN** with the locations subdomain provided from WiredIQ*
 
 > For the **ZM portal url** field please note the following requirements:
 >  * Full URL is in the format, *https://**SUBDOMAIN**.opticnerve.wirediq.com:45451/zm*
->  * The SUBDOMAIN must be replaced with the locations subdomain provided by WiredIQ 
+>  * The SUBDOMAIN must be replaced with the locations subdomain provided from WiredIQ 
 >    * i.e. https://abc-corp.opticnerve.wirediq.com:45451/zm
 >  * **/zm** must be appended to the end of the URL
 > 
-> The **path to cgi-bin** and **ZM api url** fields will autofill upon entering the **ZM portal url** field.<br>
-> ***Please do not modify those fields manually.***
+> The **"path to cgi-bin"** and **"ZM api url"** fields will autofill upon entering the URL in the **ZM portal url** field.<br>
+> ***Please do not modify those 2 fields manually.***
 
 ![Required Fields](/imgs/04_required_fields.png)
 
